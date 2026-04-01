@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Large Files
+saved_models/
+ml-1m/
+ml-100k/
+ml-1m.zip
+ml-100k.zip
+
+# Temporary
+tempCodeRunnerFile.py
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# datasets
+ml-100k/
+ml-1m/
+
+# python
+__pycache__/
+*.pyc
+genereate_readme_plots.py
