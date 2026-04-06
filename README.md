@@ -461,10 +461,11 @@ Shows: user count, item count, sparsity, rating distribution.
 
 - Local copy: [RS Research paper.pdf](Research%20paper/RS%20Research%20paper.pdf)
 
-### Dataset citation
-
-- F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS), 5(4), Article 19. DOI: http://dx.doi.org/10.1145/2827872
 
 ### Dataset source
 
 - https://grouplens.org/datasets/movielens/1m/
+
+### Author
+- Ram Singhal
+- Btech AI&DS
