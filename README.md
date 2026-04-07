@@ -447,6 +447,6 @@ Shows: user count, item count, sparsity, rating distribution.
 
 - https://grouplens.org/datasets/movielens/1m/
 
-### Author
+### By:
 - Ram Singhal
 - Btech AI&DS
