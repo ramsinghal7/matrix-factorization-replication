@@ -243,7 +243,7 @@ Parameter choice rationale used in this replication:
 
 ### Model-by-Model Comparison Table
 
-| # | Model | our MAE | Paper MAE | Difference | % Gap | Result |
+| # | Model | Our MAE | Paper MAE | Difference | % Gap | Result |
 |---|---|---:|---:|---:|---:|:---:|
 | 1 | **BiasedMF** ⭐ | 0.6793 | 0.7120 | -0.0327 | -4.59% | ✅ Better |
 | 2 | NMF | 0.6914 | 0.7440 | -0.0526 | -7.07% | ✅ Better |
@@ -251,27 +251,6 @@ Parameter choice rationale used in this replication:
 | 4 | BeMF | 0.7201 | 0.7480 | -0.0279 | -3.73% | ✅ Better |
 | 5 | URP | 0.7508 | 0.7950 | -0.0442 | -5.56% | ✅ Better |
 | 6 | BNMF | 0.7213 | 0.6930 | +0.0283 | +4.08% | ❌ Worse |
-
-### Summary Statistics
-
-| Metric | Value |
-|---|---|
-| **Models Tested** | 6 |
-| **Win Rate** | 5/6 (83.3%) |
-| **Best Performer** | BiasedMF (0.6793) |
-| **Worst Performer** | URP (0.7508) |
-| **Average Your MAE** | 0.7105 |
-| **Average Paper MAE** | 0.7368 |
-| **Mean Gap** | **-0.0264 (↓3.59%)** |
-
-| Model | Your MAE | Paper MAE | Difference (Your - Paper) | Result |
-|---|---:|---:|---:|---|
-| PMF | 0.7000 | 0.7290 | -0.0290 | Better |
-| BiasedMF | 0.6793 | 0.7120 | -0.0327 | Better |
-| NMF | 0.6914 | 0.7440 | -0.0526 | Better |
-| BeMF | 0.7201 | 0.7480 | -0.0279 | Better |
-| URP | 0.7508 | 0.7950 | -0.0442 | Better |
-| BNMF | 0.7213 | 0.6930 | +0.0283 | Worse |
 
 ### Summary Statistics
 
