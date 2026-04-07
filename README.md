@@ -243,7 +243,7 @@ Parameter choice rationale used in this replication:
 
 ### Model-by-Model Comparison Table
 
-| # | Model | Your MAE | Paper MAE | Difference | % Gap | Result |
+| # | Model | our MAE | Paper MAE | Difference | % Gap | Result |
 |---|---|---:|---:|---:|---:|:---:|
 | 1 | **BiasedMF** ⭐ | 0.6793 | 0.7120 | -0.0327 | -4.59% | ✅ Better |
 | 2 | NMF | 0.6914 | 0.7440 | -0.0526 | -7.07% | ✅ Better |
