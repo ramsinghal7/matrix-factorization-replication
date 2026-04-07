@@ -17,25 +17,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-1. [What This Project Is About](#1-what-this-project-is-about)
-2. [Main Objective](#2-main-objective-of-the-replication)
-3. [Repository Structure](#3-repository-structure)
-4. [Dataset](#4-dataset-download-and-description)
-5. [Models & Formulas](#5-models-and-formulas-used)
-6. [Evaluation Metrics](#6-evaluation-metrics)
-7. [Hyperparameters](#7-hyperparameters-used-and-why)
-8. [Paper vs Replication](#8-paper-vs-my-work-direct-comparison)
-9. [Visual Results](#9-visual-results-for-readme)
-10. [Critical Analysis](#10-critical-analysis)
-11. [Conclusion](#11-final-conclusion)
-12. [How to Run](#12-how-to-run)
-13. [Future Work](#13-future-work)
-14. [References](#14-references)
-
----
-
 ## 1. What This Project Is About
 
 This repository reproduces and compares six collaborative filtering models that are widely used in matrix factorization research:
